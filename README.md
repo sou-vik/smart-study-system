@@ -1,6 +1,6 @@
-# Smart Study Assistant
+# Smart Tutor AI
 
-Smart Study Assistant is an NLP-based educational tool developed for SDG 4: Quality Education.
+Smart Tutor AI is an NLP-based educational tool developed for SDG 4: Quality Education.
 
 Features:
 - Note Summarization

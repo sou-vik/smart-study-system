@@ -15,7 +15,7 @@ from sumy.summarizers.lsa import LsaSummarizer
 # ─────────────────────────────────────────────────────────────────────────────
 
 st.set_page_config(
-    page_title="Smart Study Assistant",
+    page_title="Smart Tutor AI",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -384,7 +384,7 @@ with st.sidebar:
     st.title("About Project")
 
     st.info(
-        "Smart Study Assistant\n\n"
+        "Smart Tutor AI\n\n"
         "Features\n"
         "  Note Summarization\n"
         "  Keyword Extraction\n"
@@ -400,7 +400,7 @@ with st.sidebar:
 # ─────────────────────────────────────────────────────────────────────────────
 
 st.markdown(
-    "<h1>Smart Study Assistant</h1>"
+    "<h1>Smart Tutor AI</h1>"
     "<hr style='width:72px;height:2px;background:#800000;"
     "border:none;border-radius:2px;margin:0.5rem auto 0.7rem;'>"
     "<h4>AI-Inspired Learning Assistant for SDG 4 &ndash; Quality Education</h4>",
